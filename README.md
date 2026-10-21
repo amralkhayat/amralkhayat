@@ -25,4 +25,4 @@ Currently exploring **Kotlin Multiplatform** for sharing business logic between 
 | [MusicAlbums](https://github.com/amralkhayat/MusicAlbums) | MVVM app with networking and unit tests |
 
 ### 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-al-khayat-4333a586/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-elkhayat-4333a586/)
